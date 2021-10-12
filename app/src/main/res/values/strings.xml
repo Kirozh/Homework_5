@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_5</string>
+    <string name="contact_title">Контакт</string>
+    <string name="update_btn">update</string>
+    <string name="menu_edit">edit</string>
+    <string name="edit">edit</string>
+</resources>
